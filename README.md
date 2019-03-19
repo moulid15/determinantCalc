@@ -1,4 +1,5 @@
 # determinantCalc
 
-```git clone https://github.com/moulid15/determinantCalc.git
+```
+git clone https://github.com/moulid15/determinantCalc.git
 ```
