@@ -1,4 +1,5 @@
 # determinantCalc
+#### calculator for getting the determinante of a matrix
 
 ## contribute
 ```
